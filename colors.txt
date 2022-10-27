@@ -1,1 +1,5 @@
 #Working with Rainbow colors 
+Red
+Yellow 
+Orange 
+
