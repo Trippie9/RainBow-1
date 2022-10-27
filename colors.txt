@@ -2,4 +2,8 @@
 Red
 Yellow 
 Orange 
+Green 
+blue 
+Indigo
+Violent 
 
